@@ -4,5 +4,4 @@ Using method:Fuzzy-c-means for clustering
 feature extract using GLCM
 Train & prediction using support vector machine
 using manually select dataset
-#Project -doc 2
-project title: Alzheimer detection
+
